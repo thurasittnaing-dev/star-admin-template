@@ -1,0 +1,13 @@
+.profile-detail-avater {
+    width: 3.5rem;
+    height: 3.5rem;
+    object-fit: cover;
+}
+
+.user-create-img {
+    width: 100%;
+}
+
+.password-img {
+    width: 70%;
+}
